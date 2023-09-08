@@ -88,6 +88,8 @@ section h2 {
     font-size: 32px;
 }
 
+/*cores ok*/
+
 #sports {
     background-color: rgba(0, 255, 0, 0.1);
 }
@@ -102,4 +104,20 @@ section h2 {
 
 #economy .articles article a {
     background-color: #ff9f1a;
+}
+
+#games {
+    background-color: cornflowerblue;
+}
+
+#games .articles article a {
+    background-color: rgb(14, 129, 129);
+}
+
+#tecnologia {
+    background-color: lightslategrey;
+}
+
+#tecnologia .articles article a {
+    background-color: brown;
 }
